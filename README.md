@@ -1,9 +1,7 @@
 # GI-3DMigotoMods
  
-My OC Genshin mods that I will be posting here, use with https://github.com/SilentNightSound/GI-Model-Importer   
+I will post my OC mods for a certain anime game here, use with https://github.com/SilentNightSound/GI-Model-Importer   
   
-Please note that the list is not finished, currently I'm just learning how Github works and lazy to upload my other works 
+No one has been banned yet from modding but if it ever happens, we are not responsible
   
-Join the Discord https://discord.gg/agmg  
-
-(idk how to post a preview pls help)
+Join the Discord for more mods/help/chat https://discord.gg/agmg  
