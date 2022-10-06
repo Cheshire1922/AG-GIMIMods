@@ -1,6 +1,8 @@
 # GI-3DMigotoMods
  
-I will post my OC mods for a certain anime game here, use with https://github.com/SilentNightSound/GI-Model-Importer   
+I will post (mostly) OC mods for a certain anime game here, use with https://github.com/SilentNightSound/GI-Model-Importer   
+
+If I share someone's project, it was with permission and will give credits if they want or not  
   
 No one has been banned yet from modding but if it ever happens, we are not responsible  
 
