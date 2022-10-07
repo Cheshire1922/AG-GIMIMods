@@ -1,0 +1,10 @@
+python genshin_set_color.py -n kleeTexcoord.buf --stride 12 -a 50
+
+
+import bpy
+bpy.data.objects["魔法鸭 1.0_mesh.001"]["3DMigoto:FirstIndex"] =  bpy.data.objects["SuccHead-vb0=b655c335.txt"]["3DMigoto:FirstIndex"]
+bpy.data.objects["魔法鸭 1.0_mesh.001"]["3DMigoto:FirstVertex"] =  bpy.data.objects["SuccHead-vb0=b655c335.txt"]["3DMigoto:FirstVertex"]
+bpy.data.objects["魔法鸭 1.0_mesh.001"]["3DMigoto:IBFormat"] =  bpy.data.objects["SuccHead-vb0=b655c335.txt"]["3DMigoto:IBFormat"]
+bpy.data.objects["魔法鸭 1.0_mesh.001"]["3DMigoto:TEXCOORD.xy"] =  bpy.data.objects["SuccHead-vb0=b655c335.txt"]["3DMigoto:TEXCOORD.xy"]
+bpy.data.objects["魔法鸭 1.0_mesh.001"]["3DMigoto:VBLayout"] =  bpy.data.objects["SuccHead-vb0=b655c335.txt"]["3DMigoto:VBLayout"]
+bpy.data.objects["魔法鸭 1.0_mesh.001"]["3DMigoto:VBStride"] =  bpy.data.objects["SuccHead-vb0=b655c335.txt"]["3DMigoto:VBStride"]
