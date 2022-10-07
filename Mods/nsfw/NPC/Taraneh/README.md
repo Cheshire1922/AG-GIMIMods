@@ -1,3 +1,4 @@
+(oops forgot to remove the shoes of the model I was using lmao, it'll be fixed in final ver)
 broken as fuck  
 been working on her noodle arm for hours I don't know what's wrong  
 here it is for now, it's 5am I want to sleep, I'll work on it again eventually
