@@ -1,6 +1,4 @@
-(oops forgot to remove the shoes of the model I was using lmao, it'll be fixed in final ver)
-broken as fuck  
-been working on her noodle arm for hours I don't know what's wrong  
-here it is for now, it's 5am I want to sleep, I'll work on it again eventually
+Broken af(update, some progress but I still can't figure out how to fix the belly part from completely messing me on the dancer NPC)
+Here it is for now, I'll finish it eventually xd
 
 ![ ](https://cdn.discordapp.com/attachments/1027063731789770842/1027866201143132180/unknown.png)
