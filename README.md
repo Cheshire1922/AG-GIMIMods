@@ -2,17 +2,19 @@
  
  
 (Update 08/10/22)  
-I will be taking a break from mods, probably a week or 2 at most, just too much work and busy with other stuff  
+I will be taking a break from mods, probably a week, or 2 at most, just too much work and busy with other stuff  
   
 --------------------
   
-I will post (mostly) OC mods for a certain anime game here, use with https://github.com/SilentNightSound/GI-Model-Importer   
+I will post (mostly) OC mods for a certain anime game on here, use with https://github.com/SilentNightSound/GI-Model-Importer   
 
 If I share someone's project, it was with permission and will give credits if they want or not  
   
-No one has been banned yet from modding but if it ever happens, we are not responsible  
+We haven't heard of anyone getting banned from using 3DMigoto but there's always a risk, we aren't responsible
 
 use them on a private server :)
+  
+--------------------
   
 Join the Discord for more mods, help or just chatting https://discord.gg/agmg  
 
