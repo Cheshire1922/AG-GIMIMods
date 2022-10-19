@@ -1,11 +1,6 @@
 # GI-3DMigotoMods
  
  
-(Update 08/10/22)  
-I will be taking a break from mods, probably a week, or 2 at most, just too much work and busy with other stuff  
-  
---------------------
-  
 I will post (mostly) OC mods for a certain anime game on here, use with https://github.com/SilentNightSound/GI-Model-Importer   
 
 If I share someone's project, it was with permission and will give credits if they want or not  
