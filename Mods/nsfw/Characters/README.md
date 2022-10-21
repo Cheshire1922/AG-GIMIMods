@@ -1,2 +1,3 @@
 don't ask about 6 of those characters :)  
-no preview xdd
+some of them aren't mine  
+and no, no preview xdd
