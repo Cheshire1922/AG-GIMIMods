@@ -1,4 +1,5 @@
 # New Version  
+sorry this took a while, laziness, and msotly just me struggling to understand weight painting in blender  
 Obviously can't show any preview here  
 ---------UPDATED VERSION, OLD VERSION BELOW-------------  
 Again, one has a flat chest  
