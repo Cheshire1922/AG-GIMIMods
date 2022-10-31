@@ -3,7 +3,7 @@ sorry this took a while, laziness, and mostly just me struggling to understand w
 Obviously can't show any preview here  
   
 Again, one has a flat chest  
-Link: https://cdn.discordapp.com/attachments/1027063731789770842/1036534552216207370/New_ver.rar  
+Link: https://cdn.discordapp.com/attachments/1027063731789770842/1036743300264235048/Nahida.zip  
    
 ----------------------  
 # Old version  
