@@ -1,7 +1,7 @@
 # New Version  
-sorry this took a while, laziness, and msotly just me struggling to understand weight painting in blender  
+sorry this took a while, laziness, and mostly just me struggling to understand weight painting in blender  
 Obviously can't show any preview here  
----------UPDATED VERSION, OLD VERSION BELOW-------------  
+  
 Again, one has a flat chest  
 Link: https://cdn.discordapp.com/attachments/1027063731789770842/1036534552216207370/New_ver.rar  
    
