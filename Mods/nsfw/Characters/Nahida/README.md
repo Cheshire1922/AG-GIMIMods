@@ -2,7 +2,7 @@
 sorry this took a while, laziness, and mostly just me struggling to understand weight painting in blender  
 Obviously can't show any preview here  
   
-Again, one has a flat chest  
+Press P to switch between versions    
 Link: https://cdn.discordapp.com/attachments/1027063731789770842/1036743300264235048/Nahida.zip  
    
 ----------------------  
