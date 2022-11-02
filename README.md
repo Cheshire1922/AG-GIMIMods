@@ -1,3 +1,5 @@
+**honey pls stop sharing in the discord**  
+
 # GI-3DMigotoMods
  
  
