@@ -20,6 +20,8 @@ I may update my mods at any time w/o notice, just some slight improvement really
   
 --------------------  
 # Changelog  
+-03/11/22: Decided to make the mods as zip file instead of folders so that people don't have to download the entire archive everytime a new mod is out  
+  
 -31/10/22: Added 2 versions, merged all together, switch between them by pressing P on the keyboard  
 -31/10/22:  Added new version of [Nahida Mod](https://github.com/Cheshire1922/GI-3DMigotoMods/tree/main/Mods/nsfw/Characters/Nahida)  
 too lazy to add changelog of older stuff, but I'll keep it updated from now on, just to make it easier for people to download what they missed
