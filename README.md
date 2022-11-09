@@ -1,5 +1,6 @@
 **pls stop linking this github in the discord**  
 yes this is a public repo but im still trying to keep it on the low since most of these mods are sussy  
+anyone who finds it, great, just don't share it  
 
 # GI-GIMIMods
  
