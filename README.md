@@ -21,6 +21,9 @@ I may update my mods at any time w/o notice, just some slight improvement really
   
 --------------------  
 # Changelog  
+-08/12/22: Added [Barbara mod](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/nsfw/Characters/Barbara), sorry no activity for a while, just busy  
+not my mod, I just imported it onto Barbara's original skin
+
 -09/11/22: Finished the [Signora R18](https://github.com/Cheshire1922/GI-GIMIMods/tree/main/Mods/nsfw/Enemies/La%20Signora%20Boss)  
   
 -03/11/22: Decided to make the mods as zip file instead of folders so that people don't have to download the entire archive everytime a new mod is out  
