@@ -2,7 +2,7 @@
 yes this is a public repo but im still trying to keep it on the low since most of these mods are sussy  
 anyone who finds it, great, just don't share it  
 
-# GI-GIMIMods
+# AG-GIMIMods
  
  
 I will post (mostly) OC mods for a certain anime game on here, use them with [3DMigoto GIMI](https://github.com/SilentNightSound/GI-Model-Importer)   
@@ -21,7 +21,8 @@ I may update my mods at any time w/o notice, just some slight improvement really
   
 --------------------  
 # Changelog  
--09/11/22: Finished the Signora R18  
+-09/11/22: Finished the [Signora R18](https://github.com/Cheshire1922/GI-GIMIMods/tree/main/Mods/nsfw/Enemies/La%20Signora%20Boss)  
+  
 -03/11/22: Decided to make the mods as zip file instead of folders so that people don't have to download the entire archive everytime a new mod is out  
   
 -31/10/22: Added 2 versions, merged all together, switch between them by pressing P on the keyboard  
