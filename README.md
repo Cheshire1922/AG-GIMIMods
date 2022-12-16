@@ -10,6 +10,8 @@ Personally, I've been playing mods on main server for over a week now(at the tim
 so I guess it's safe, but we never know what anime game company may do eventually  
 use them on a private server if you really care that much about your account
   
+but to be honest, getting banned is just gonna make you finally quit this gacha hell, win win
+  
 --------------------
   
 Join the Discord for more mods, help or just chatting https://discord.gg/agmg  
