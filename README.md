@@ -20,7 +20,8 @@ I may update my mods at any time w/o notice, just some slight improvement really
   
 --------------------  
 # Changelog  
--16/12/22: Added [Yinger NPC(https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/nsfw/NPC/Yinger) mod
+-16/12/22: Added [Kitsune Ayaka](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/sfw/Ayaka/Kitsune%20Mask%20Ayaka) mod  
+-16/12/22: Added [Yinger NPC](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/nsfw/NPC/Yinger) mod  
 -13/12/22: Added [Nekomimi Loli](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/sfw/Nekomimi%20Loli) mod  
 -08/12/22: Added [Barbara mod](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/nsfw/Characters/Barbara), sorry no activity for a while, just busy  
 not my mod, I just imported it onto Barbara's original skin
