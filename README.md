@@ -5,9 +5,12 @@ I will post (mostly) OC mods for a certain anime game on here, use them with [3D
 
 If I share someone's project, it was with permission and will give credits if they want or not  
   
-We haven't heard of anyone getting banned from using 3DMigoto but there's always a risk, we aren't responsible
-
-use them on a private server :)
+Personally, I've been playing mods on main server for over a week now(at the time of writing this)  
+(I know people who've been modding on main for months and nothing happened)  
+so I guess it's safe, but we never know what anime game company may do eventually  
+use them on a private server if you really care that much about your account
+  
+but to be honest, getting banned is just gonna make you finally quit this gacha hell, win win
   
 --------------------
   
@@ -17,7 +20,7 @@ I may update my mods at any time w/o notice, just some slight improvement really
   
 --------------------  
 # Changelog  
-
+-16/12/22: Added [Yinger NPC(https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/nsfw/NPC/Yinger) mod
 -13/12/22: Added [Nekomimi Loli](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/sfw/Nekomimi%20Loli) mod  
 -08/12/22: Added [Barbara mod](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/nsfw/Characters/Barbara), sorry no activity for a while, just busy  
 not my mod, I just imported it onto Barbara's original skin
