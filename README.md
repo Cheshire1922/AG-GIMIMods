@@ -5,12 +5,12 @@ I will post (mostly) OC mods for a certain anime game on here, use them with [3D
 
 If I share someone's project, it was with permission and will give credits if they want or not  
   
-Personally, I've been playing mods on main server for over a week now(at the time of writing this)  
-(I know people who've been modding on main for months and nothing happened)  
+Personally, I've been playing mods on main server for over 3 weeks now(at the time of writing this)  
+(I know people who've been modding on main for months and nothing has ever happened)  
 so I guess it's safe, but we never know what anime game company may do eventually  
 use them on a private server if you really care that much about your account
   
-but to be honest, getting banned is just gonna make you finally quit this gacha hell, win win
+but to be honest, getting banned is just gonna make you finally quit this gacha hell, win win either way
   
 --------------------
   
