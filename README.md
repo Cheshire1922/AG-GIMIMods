@@ -20,7 +20,7 @@ I may update my mods at any time w/o notice, just some slight improvement really
   
 --------------------  
 # Changelog  
--21/01/23: Out of modding for a bit, busy irl and i'd rather spend the little free time I have chilling on other games  
+-21/01/23: Out of modding for a bit, busy irl and to be honest, i'd rather spend the little free time I have chilling on other games  
 -13/01/23: Added [Lewd Ganyu](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/nsfw-ish/Ganyu/Less%20Clothing%20Ganyu) mod
   
 -22/12/22: Added [Better Wanderer](https://github.com/Cheshire1922/AG-GIMIMods/tree/main/Mods/sfw/Wanderer/BetterWanderer) mod  
