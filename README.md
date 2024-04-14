@@ -2,8 +2,7 @@
  
 It has been up for quite a while without any updates, none of these mods work anymore, so I moved them into the archive folder
 
-However, I do plan on updating/improving everything eventually
-I do not have any estimation as of now
+However, I do plan on updating/improving everything eventually, I do not have any estimation as of now
 
 It's possible that I move everything onto GameBanana/Kemono and share links here as well for more visibility
 (github is such a pain to work with/updating and stuff)
